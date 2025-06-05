@@ -1277,3 +1277,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jun2025 20:51:21.057] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of noenashe (18)
 [05Jun2025 20:51:21.058] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to noenashe
 [05Jun2025 20:57:12.087] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/175, l='ServerLevel[world]', x=308.30, y=77.00, z=86.70] died, message: 'Villager was slain by Zombie'
+[05Jun2025 20:58:09.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: noenashe lost connection: Disconnected
+[05Jun2025 20:58:09.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe left the game
+[05Jun2025 20:58:09.051] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client noenashe
