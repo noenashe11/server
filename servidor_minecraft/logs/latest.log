@@ -1368,3 +1368,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jun2025 03:39:28.003] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [05Jun2025 03:40:00.998] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [05Jun2025 03:40:28.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tsukinome8 has made the advancement [Ice Bucket Challenge]
+[05Jun2025 03:41:56.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=242, y=75, z=-53} BlockPos{x=242, y=76, z=-54}
+[05Jun2025 03:42:35.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[05Jun2025 03:42:44.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[05Jun2025 03:43:29.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has made the advancement [Disme A Dozen]
+[05Jun2025 03:44:47.456] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/8331, l='ServerLevel[world]', x=240.40, y=66.00, z=32.67] died, message: 'Cleric was slain by Zombie'
+[05Jun2025 03:44:52.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6631, l='ServerLevel[world]', x=238.54, y=66.00, z=30.79] died, message: 'Villager was slain by Zombie Villager'
+[05Jun2025 03:44:55.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[05Jun2025 03:45:07.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/8530, l='ServerLevel[world]', x=213.11, y=67.50, z=101.99] died, message: 'Toolsmith was slain by Zombie'
+[05Jun2025 03:45:12.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8533, l='ServerLevel[world]', x=252.24, y=71.92, z=-30.75] died, message: 'Villager was slain by Zombie'
+[05Jun2025 03:45:25.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[05Jun2025 03:45:25.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[05Jun2025 03:45:25.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has made the advancement [Barrel Booty]
+[05Jun2025 03:45:46.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has made the advancement [Ice Bucket Challenge]
+[05Jun2025 03:45:46.439] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Jun2025 03:46:02.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[05Jun2025 03:46:05.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[05Jun2025 03:46:11.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[05Jun2025 03:46:22.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[05Jun2025 03:47:04.596] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/8596, l='ServerLevel[world]', x=242.92, y=68.00, z=78.54] died, message: 'Farmer hit the ground too hard whilst trying to escape Zombie'
+[05Jun2025 03:49:38.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[05Jun2025 03:49:49.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

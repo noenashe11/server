@@ -298,6 +298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-05 03:37:08 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_brown_wool": "2025-06-05 03:29:25 +0000"
@@ -349,6 +355,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-06-05 03:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-05 03:37:08 +0000"
     },
     "done": true
   },
@@ -796,6 +808,18 @@
     },
     "done": true
   },
+  "bbb:recipes/rope": {
+    "criteria": {
+      "has_string": "2025-06-05 03:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-05 03:39:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2025-06-05 03:28:06 +0000"
@@ -901,6 +925,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 03:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-05 03:37:08 +0000"
     },
     "done": true
   },
@@ -1195,6 +1225,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_planks": "2025-06-05 03:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-05 03:40:28 +0000"
     },
     "done": true
   },
@@ -1996,6 +2032,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-05 03:40:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-06-05 03:28:06 +0000"
@@ -2305,6 +2347,12 @@
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-06-05 03:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-05 03:37:08 +0000"
     },
     "done": true
   },
@@ -2620,6 +2668,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-06-05 03:37:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2025-06-05 03:36:51 +0000"
@@ -2689,6 +2743,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 03:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-05 03:37:08 +0000"
     },
     "done": true
   },
@@ -2788,9 +2848,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-06-05 03:37:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-05 03:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-05 03:40:28 +0000"
     },
     "done": true
   },
@@ -2809,6 +2881,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 03:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-05 03:37:08 +0000"
     },
     "done": true
   },

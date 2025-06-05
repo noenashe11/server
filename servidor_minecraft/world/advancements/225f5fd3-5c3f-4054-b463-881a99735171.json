@@ -109,7 +109,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:silverfish": "2025-06-05 03:36:55 +0000",
-      "minecraft:zombie": "2025-06-04 01:53:17 +0000"
+      "minecraft:zombie": "2025-06-04 01:53:17 +0000",
+      "minecraft:zombie_villager": "2025-06-05 03:46:33 +0000"
     },
     "done": false
   },
@@ -2597,6 +2598,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-05 03:45:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2025-06-05 03:27:14 +0000"
@@ -2612,6 +2619,18 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-06-05 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-05 03:37:22 +0000"
     },
     "done": true
   },
@@ -2648,6 +2667,12 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-05 03:35:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-06-05 03:42:58 +0000"
     },
     "done": true
   },
@@ -2777,9 +2802,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-05 03:45:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-06-05 03:26:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-06-05 03:45:25 +0000"
     },
     "done": true
   },
@@ -2825,6 +2862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-05 03:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-06-05 03:32:34 +0000"
@@ -2861,6 +2904,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-06-05 03:45:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-06-05 03:42:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-06-05 03:14:53 +0000"
@@ -2885,9 +2940,27 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-05 03:37:20 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_bars_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-05 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-06-05 03:40:27 +0000"
     },
     "done": true
   },
@@ -2921,6 +2994,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-06-05 03:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-05 03:14:16 +0000"
@@ -2945,6 +3024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-05 03:40:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-06-05 03:36:04 +0000"
@@ -2963,9 +3048,27 @@
     },
     "done": true
   },
+  "bbb:recipes/mangrove_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-06-05 03:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-05 03:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-05 03:37:08 +0000"
     },
     "done": true
   },
@@ -3035,9 +3138,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-05 03:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-05 03:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-06-05 03:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-05 03:45:46 +0000"
     },
     "done": true
   },
@@ -3077,6 +3198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-05 03:45:26 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/building_blocks/copper_window": {
     "criteria": {
       "has_item": "2025-06-05 03:14:53 +0000"
@@ -3095,9 +3222,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-05 03:45:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-05 03:26:57 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
     },
     "done": true
   },
@@ -3161,6 +3300,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-05 03:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-05 03:45:26 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/oak_palisade": {
     "criteria": {
       "has_log": "2025-06-05 03:32:34 +0000"
@@ -3185,9 +3336,21 @@
     },
     "done": true
   },
+  "bbb:recipes/bamboo_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-06-05 03:36:01 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
     },
     "done": true
   },
@@ -3206,6 +3369,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-06-05 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
     },
     "done": true
   },
@@ -3245,15 +3414,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-05 03:42:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-06-05 03:14:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-05 03:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-06-05 03:27:32 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/crimson_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
     },
     "done": true
   },
@@ -3266,6 +3453,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-06-05 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-06-05 03:43:31 +0000"
     },
     "done": true
   },
@@ -3295,6 +3488,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-06-05 03:45:25 +0000",
       "opened_chest": "2025-06-05 03:26:54 +0000"
     },
     "done": false
@@ -3347,6 +3541,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-05 03:45:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-06-05 03:14:53 +0000"
@@ -3359,9 +3559,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-05 03:45:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-06-05 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/spruce_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
     },
     "done": true
   },
@@ -3395,6 +3607,12 @@
     },
     "done": true
   },
+  "bbb:recipes/jungle_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-05 03:26:57 +0000"
@@ -3407,9 +3625,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-05 03:37:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-05 03:37:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-06-05 03:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-05 03:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-05 03:45:32 +0000"
     },
     "done": true
   },
@@ -3431,6 +3673,12 @@
     },
     "done": true
   },
+  "bbb:recipes/warped_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-05 03:27:14 +0000"
@@ -3446,6 +3694,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-06-05 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-06-05 03:42:58 +0000"
     },
     "done": true
   },
@@ -3470,6 +3724,12 @@
   "createdeco:recipes/decorations/copper_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-05 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-06-05 03:42:58 +0000"
     },
     "done": true
   },
@@ -3503,6 +3763,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-06-05 03:45:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_pillar_trim": {
     "criteria": {
       "has_oak_pillar_trim": "2025-06-05 03:27:14 +0000"
@@ -3515,15 +3781,33 @@
     },
     "done": true
   },
+  "bbb:recipes/birch_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-05 03:14:53 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-06-05 03:45:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-05 03:26:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-06-05 03:45:26 +0000"
     },
     "done": true
   },
@@ -3539,9 +3823,21 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-06-05 03:43:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-06-05 03:35:43 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-05 03:41:19 +0000"
     },
     "done": true
   },
@@ -3599,9 +3895,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-06-05 03:40:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-05 03:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-05 03:45:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-06-05 03:45:26 +0000"
     },
     "done": true
   },
@@ -3620,6 +3934,12 @@
   "createdeco:recipes/decorations/copper_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-05 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-06-05 03:40:27 +0000"
     },
     "done": true
   },

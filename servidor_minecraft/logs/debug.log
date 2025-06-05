@@ -16595,3 +16595,58 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jun2025 03:39:28.003] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [05Jun2025 03:40:00.998] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [05Jun2025 03:40:28.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tsukinome8 has made the advancement [Ice Bucket Challenge]
+[05Jun2025 03:41:26.826] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[05Jun2025 03:41:42.915] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[05Jun2025 03:41:56.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=242, y=75, z=-53} BlockPos{x=242, y=76, z=-54}
+[05Jun2025 03:42:04.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 03:42:04.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 03:42:35.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[05Jun2025 03:42:44.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[05Jun2025 03:43:02.864] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[05Jun2025 03:43:02.864] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[05Jun2025 03:43:29.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has made the advancement [Disme A Dozen]
+[05Jun2025 03:44:47.456] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/8331, l='ServerLevel[world]', x=240.40, y=66.00, z=32.67] died, message: 'Cleric was slain by Zombie'
+[05Jun2025 03:44:52.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6631, l='ServerLevel[world]', x=238.54, y=66.00, z=30.79] died, message: 'Villager was slain by Zombie Villager'
+[05Jun2025 03:44:55.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[05Jun2025 03:45:07.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/8530, l='ServerLevel[world]', x=213.11, y=67.50, z=101.99] died, message: 'Toolsmith was slain by Zombie'
+[05Jun2025 03:45:12.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8533, l='ServerLevel[world]', x=252.24, y=71.92, z=-30.75] died, message: 'Villager was slain by Zombie'
+[05Jun2025 03:45:15.603] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[05Jun2025 03:45:25.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[05Jun2025 03:45:25.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[05Jun2025 03:45:25.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has made the advancement [Barrel Booty]
+[05Jun2025 03:45:43.030] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[05Jun2025 03:45:46.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has made the advancement [Ice Bucket Challenge]
+[05Jun2025 03:45:46.439] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Jun2025 03:46:02.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[05Jun2025 03:46:05.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[05Jun2025 03:46:11.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[05Jun2025 03:46:22.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[05Jun2025 03:47:04.090] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[05Jun2025 03:47:04.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 03:47:04.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 03:47:04.596] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/8596, l='ServerLevel[world]', x=242.92, y=68.00, z=78.54] died, message: 'Farmer hit the ground too hard whilst trying to escape Zombie'
+[05Jun2025 03:47:24.319] [Server thread/DEBUG] [pointblank/]: 44319 handling client fire request
+[05Jun2025 03:47:24.319] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2080055120 to 6
+[05Jun2025 03:47:24.319] [Server thread/DEBUG] [pointblank/]: 44319 - obtained hit result in 0ms
+[05Jun2025 03:47:24.319] [Server thread/DEBUG] [pointblank/]: 44319 obtained hit results
+[05Jun2025 03:47:24.319] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@253524a3
+[05Jun2025 03:47:24.320] [Server thread/DEBUG] [pointblank/]: ServerPlayer['noenashe'/238, l='ServerLevel[world]', x=247.51, y=64.00, z=52.39] sends hit scan notification to ServerPlayer['noenashe'/238, l='ServerLevel[world]', x=247.51, y=64.00, z=52.39]
+[05Jun2025 03:47:24.320] [Server thread/DEBUG] [pointblank/]: ServerPlayer['noenashe'/238, l='ServerLevel[world]', x=247.51, y=64.00, z=52.39] sends hit scan notification to ServerPlayer['tsukinome8'/6435, l='ServerLevel[world]', x=214.05, y=67.00, z=-5.36]
+[05Jun2025 03:47:24.554] [Server thread/DEBUG] [pointblank/]: 44554 handling client fire request
+[05Jun2025 03:47:24.554] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2080055120 to 5
+[05Jun2025 03:47:24.554] [Server thread/DEBUG] [pointblank/]: 44554 - obtained hit result in 0ms
+[05Jun2025 03:47:24.554] [Server thread/DEBUG] [pointblank/]: 44554 obtained hit results
+[05Jun2025 03:47:24.554] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@39c0ffac
+[05Jun2025 03:47:24.555] [Server thread/DEBUG] [pointblank/]: ServerPlayer['noenashe'/238, l='ServerLevel[world]', x=247.51, y=64.00, z=52.39] sends hit scan notification to ServerPlayer['noenashe'/238, l='ServerLevel[world]', x=247.51, y=64.00, z=52.39]
+[05Jun2025 03:47:24.555] [Server thread/DEBUG] [pointblank/]: ServerPlayer['noenashe'/238, l='ServerLevel[world]', x=247.51, y=64.00, z=52.39] sends hit scan notification to ServerPlayer['tsukinome8'/6435, l='ServerLevel[world]', x=214.05, y=67.00, z=-5.36]
+[05Jun2025 03:47:25.008] [Server thread/DEBUG] [pointblank/]: 45008 handling client fire request
+[05Jun2025 03:47:25.008] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2080055120 to 4
+[05Jun2025 03:47:25.008] [Server thread/DEBUG] [pointblank/]: 45008 - obtained hit result in 0ms
+[05Jun2025 03:47:25.008] [Server thread/DEBUG] [pointblank/]: 45008 obtained hit results
+[05Jun2025 03:47:25.008] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3fce40fe
+[05Jun2025 03:47:25.009] [Server thread/DEBUG] [pointblank/]: Creating state cab62973-a4a9-4622-9a48-694c52a7ffbf
+[05Jun2025 03:47:25.010] [Server thread/DEBUG] [pointblank/]: ServerPlayer['noenashe'/238, l='ServerLevel[world]', x=247.51, y=64.00, z=52.39] sends hit scan notification to ServerPlayer['noenashe'/238, l='ServerLevel[world]', x=247.51, y=64.00, z=52.39]
+[05Jun2025 03:47:25.010] [Server thread/DEBUG] [pointblank/]: ServerPlayer['noenashe'/238, l='ServerLevel[world]', x=247.51, y=64.00, z=52.39] sends hit scan notification to ServerPlayer['tsukinome8'/6435, l='ServerLevel[world]', x=214.05, y=67.00, z=-5.36]
+[05Jun2025 03:49:38.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[05Jun2025 03:49:49.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Jun2025 03:50:29.795] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
