@@ -1,0 +1,17 @@
+{
+	id: "225f5fd3-5c3f-4054-b463-881a99735171"
+	type: "player"
+	player_name: "noenashe"
+	ranks: {
+		225f5fd3-5c3f-4054-b463-881a99735171: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "noenashe"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59EBFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

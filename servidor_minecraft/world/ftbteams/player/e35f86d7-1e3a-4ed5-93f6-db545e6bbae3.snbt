@@ -1,0 +1,17 @@
+{
+	id: "e35f86d7-1e3a-4ed5-93f6-db545e6bbae3"
+	type: "player"
+	player_name: "tsukinome8"
+	ranks: {
+		e35f86d7-1e3a-4ed5-93f6-db545e6bbae3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "tsukinome8"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFCB59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
