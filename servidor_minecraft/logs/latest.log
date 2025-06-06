@@ -1280,3 +1280,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 20:49:48.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
 [06Jun2025 20:50:19.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
 [06Jun2025 20:50:26.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[06Jun2025 20:59:01.004] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@33a451f2]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[06Jun2025 20:59:01.006] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@5720d5a2
+[06Jun2025 20:59:01.009] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[06Jun2025 20:59:01.009] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[06Jun2025 20:59:01.052] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[06Jun2025 20:59:01.052] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[06Jun2025 20:59:06.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/402, l='ServerLevel[world]', x=219.03, y=95.00, z=-26.55] died, message: 'Villager was slain by Zombie'
+[06Jun2025 20:59:09.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: noenashe lost connection: Disconnected
+[06Jun2025 20:59:09.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe left the game
+[06Jun2025 20:59:09.605] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client noenashe
