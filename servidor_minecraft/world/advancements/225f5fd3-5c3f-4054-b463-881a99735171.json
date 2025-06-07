@@ -112,6 +112,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombified_piglin": "2025-06-06 22:44:51 +0000",
+      "minecraft:husk": "2025-06-07 15:55:12 +0000",
       "minecraft:silverfish": "2025-06-05 03:36:55 +0000",
       "minecraft:zombie": "2025-06-04 01:53:17 +0000",
       "minecraft:drowned": "2025-06-07 01:08:23 +0000",
@@ -9412,6 +9413,12 @@
     },
     "done": true
   },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-06-07 15:59:59 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_sheet_metal": {
     "criteria": {
       "has_item": "2025-06-07 15:25:10 +0000"
@@ -9472,6 +9479,12 @@
     },
     "done": true
   },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-06-07 15:59:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-06-07 15:32:56 +0000"
@@ -9511,6 +9524,12 @@
   "createdeco:recipes/decorations/yellow_copper_lamp": {
     "criteria": {
       "has_item": "2025-06-07 15:25:10 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-06-07 15:59:00 +0000"
     },
     "done": true
   },
