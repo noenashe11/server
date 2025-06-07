@@ -9376,9 +9376,177 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_support_wedge": {
+    "criteria": {
+      "has_item": "2025-06-07 15:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-07 15:32:56 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-06-07 15:25:10 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-06-07 15:25:10 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2025-06-07 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-06-07 15:25:10 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-06-07 15:25:10 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-06-07 15:25:10 +0000"
+    },
+    "done": true
+  },
   "create:speed_controller": {
     "criteria": {
       "0": "2025-06-07 15:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-07 15:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-06-07 15:32:56 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-06-07 15:25:10 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2025-06-07 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-07 15:32:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-06-07 15:29:25 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2025-06-07 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2025-06-07 15:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-06-07 15:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-06-07 15:32:56 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-06-07 15:25:10 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2025-06-07 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-07 15:32:56 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2025-06-07 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-06-07 15:25:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-06-07 15:25:10 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-06-07 15:25:10 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2025-06-07 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2025-06-07 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-06-07 15:29:19 +0000"
     },
     "done": true
   },

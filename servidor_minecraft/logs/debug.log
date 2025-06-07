@@ -16069,3 +16069,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 15:24:51.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jun2025 15:24:51.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jun2025 15:26:15.160] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[07Jun2025 15:29:25.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has made the advancement [Bonfire Lit]
+[07Jun2025 15:29:51.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 15:29:51.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 15:32:46.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 15:32:53.987] [IO-Worker-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[07Jun2025 15:32:54.029] [IO-Worker-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[07Jun2025 15:32:54.047] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[07Jun2025 15:32:57.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 15:34:51.196] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[07Jun2025 15:34:51.198] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[07Jun2025 15:34:51.198] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[07Jun2025 15:34:51.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 15:34:51.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 15:35:21.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 15:35:25.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 15:36:53.353] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[07Jun2025 15:38:44.206] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
