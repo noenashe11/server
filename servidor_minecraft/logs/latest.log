@@ -1432,3 +1432,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 17:09:22.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: noenashe lost connection: Disconnected
 [07Jun2025 17:09:22.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe left the game
 [07Jun2025 17:09:22.065] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client noenashe
+[07Jun2025 17:15:55.219] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player noenashe is 225f5fd3-5c3f-4054-b463-881a99735171
+[07Jun2025 17:16:02.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: noenashe[/127.133.41.20:36365] logged in with entity id 110248 at (235.7520238013029, 64.0, 92.43440721864671)
+[07Jun2025 17:16:02.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe joined the game
+[07Jun2025 17:16:02.711] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to noenashe
+[07Jun2025 17:16:02.843] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from noenashe
+[07Jun2025 17:16:02.877] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of noenashe (18)
+[07Jun2025 17:16:02.878] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to noenashe
+[07Jun2025 17:16:20.291] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
