@@ -1474,3 +1474,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 18:27:03.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
 [07Jun2025 18:40:40.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
 [07Jun2025 18:40:44.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 18:41:48.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 18:43:02.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[07Jun2025 18:43:09.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 18:43:38.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[07Jun2025 18:43:42.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 18:44:01.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[07Jun2025 18:44:08.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 18:46:17.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[07Jun2025 18:46:21.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 18:46:41.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[07Jun2025 18:46:43.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 18:52:00.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 18:58:06.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/173335, l='ServerLevel[world]', x=235.50, y=65.00, z=26.61] died, message: 'Librarian was shot by Warrior'
+[07Jun2025 18:58:23.068] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/173317, l='ServerLevel[world]', x=235.30, y=64.44, z=25.30] died, message: 'Librarian was slain by Zombie Villager'
+[07Jun2025 18:58:26.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/173337, l='ServerLevel[world]', x=244.02, y=65.00, z=35.09] died, message: 'Villager was shot by Warrior'
+[07Jun2025 18:58:38.561] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/173331, l='ServerLevel[world]', x=235.87, y=64.94, z=25.36] died, message: 'Librarian was slain by Zombie Villager'
+[07Jun2025 18:58:51.161] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/173333, l='ServerLevel[world]', x=237.36, y=64.94, z=26.24] died, message: 'Librarian was slain by Zombie Villager'
+[07Jun2025 18:58:53.561] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/173336, l='ServerLevel[world]', x=244.30, y=65.00, z=36.68] died, message: 'Villager was slain by Zombie Villager'
+[07Jun2025 18:58:55.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/173312, l='ServerLevel[world]', x=235.51, y=65.56, z=33.35] died, message: 'Villager was slain by Zombie Villager'
+[07Jun2025 18:59:05.002] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[07Jun2025 18:59:05.113] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/173311, l='ServerLevel[world]', x=237.53, y=65.00, z=25.41] died, message: 'Fletcher was slain by Zombie Villager'
+[07Jun2025 18:59:08.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/173310, l='ServerLevel[world]', x=242.70, y=65.00, z=35.72] died, message: 'Farmer was slain by Zombie Villager'
+[07Jun2025 18:59:08.651] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[07Jun2025 18:59:11.963] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/173313, l='ServerLevel[world]', x=245.42, y=66.00, z=36.56] died, message: 'Fletcher was slain by Zombie Villager'
+[07Jun2025 18:59:13.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/173270, l='ServerLevel[world]', x=236.21, y=65.00, z=25.79] died, message: 'Villager was slain by Zombie Villager'
+[07Jun2025 18:59:13.510] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/173316, l='ServerLevel[world]', x=245.58, y=65.00, z=32.81] died, message: 'Farmer was slain by Zombie Villager'
+[07Jun2025 18:59:14.259] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/173315, l='ServerLevel[world]', x=235.53, y=65.56, z=36.70] died, message: 'Fletcher was slain by Zombie Villager'
+[07Jun2025 18:59:16.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/173334, l='ServerLevel[world]', x=244.70, y=65.00, z=36.70] died, message: 'Librarian was slain by Zombie Villager'
+[07Jun2025 18:59:20.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/173259, l='ServerLevel[world]', x=245.70, y=65.25, z=29.66] died, message: 'Villager was slain by Zombie Villager'
+[07Jun2025 18:59:23.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/173269, l='ServerLevel[world]', x=244.21, y=65.00, z=29.18] died, message: 'Arms Dealer was slain by Zombie Villager'
+[07Jun2025 18:59:26.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/173261, l='ServerLevel[world]', x=244.87, y=66.00, z=36.08] died, message: 'Librarian was slain by Zombie Villager'
+[07Jun2025 18:59:28.158] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/173258, l='ServerLevel[world]', x=235.62, y=64.40, z=25.44] died, message: 'Librarian was slain by Zombie Villager'
+[07Jun2025 18:59:29.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/173260, l='ServerLevel[world]', x=240.27, y=65.56, z=36.42] died, message: 'Fletcher was slain by Zombie Villager'
+[07Jun2025 18:59:34.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 19:00:17.105] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[07Jun2025 19:00:18.655] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[07Jun2025 19:00:45.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
