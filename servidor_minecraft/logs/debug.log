@@ -16641,3 +16641,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 17:48:28.491] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [07Jun2025 17:49:51.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jun2025 17:49:51.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 17:54:51.189] [IO-Worker-214/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-215
+[07Jun2025 17:54:51.190] [IO-Worker-209/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-216
+[07Jun2025 17:54:51.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 17:54:51.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 17:56:22.559] [IO-Worker-209/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-217
+[07Jun2025 17:56:47.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 17:56:50.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 17:56:53.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 17:57:06.831] [IO-Worker-209/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-218
+[07Jun2025 17:57:27.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 17:59:51.193] [IO-Worker-217/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-219
+[07Jun2025 17:59:51.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 17:59:51.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 18:00:12.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has made the advancement [Busy Hands]

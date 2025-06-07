@@ -9635,6 +9635,12 @@
     },
     "done": true
   },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-06-07 17:57:13 +0000"
+    },
+    "done": true
+  },
   "create:crushing_wheel": {
     "criteria": {
       "0": "2025-06-07 17:40:02 +0000"
