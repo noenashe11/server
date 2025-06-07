@@ -16761,3 +16761,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 19:00:18.655] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [07Jun2025 19:00:45.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [07Jun2025 19:01:30.579] [IO-Worker-256/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-258
+[07Jun2025 19:04:30.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 19:04:49.304] [IO-Worker-256/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-259
+[07Jun2025 19:04:51.185] [IO-Worker-258/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-260
+[07Jun2025 19:04:51.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 19:04:51.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 19:05:47.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 19:06:02.892] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 19:06:21.696] [IO-Worker-259/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-261
+[07Jun2025 19:06:42.360] [IO-Worker-261/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-262
+[07Jun2025 19:08:37.551] [IO-Worker-262/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-263
+[07Jun2025 19:09:51.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 19:09:51.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
