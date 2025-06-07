@@ -16252,3 +16252,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 16:49:02.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
 [07Jun2025 16:49:51.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jun2025 16:49:51.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 16:51:22.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 16:52:33.763] [IO-Worker-162/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[07Jun2025 16:54:51.199] [IO-Worker-162/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-165
+[07Jun2025 16:54:51.200] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-166
+[07Jun2025 16:54:51.200] [IO-Worker-162/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-167
+[07Jun2025 16:54:51.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 16:54:51.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 16:54:52.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 16:56:04.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 16:56:57.253] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-168
+[07Jun2025 16:57:57.800] [IO-Worker-168/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-169
+[07Jun2025 16:59:51.198] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
+[07Jun2025 16:59:51.199] [IO-Worker-169/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-171
+[07Jun2025 16:59:51.199] [IO-Worker-169/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
+[07Jun2025 16:59:51.199] [IO-Worker-168/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
+[07Jun2025 16:59:51.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 16:59:51.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 17:00:02.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
