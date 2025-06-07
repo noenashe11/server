@@ -16594,3 +16594,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 17:19:51.200] [IO-Worker-200/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-202
 [07Jun2025 17:19:51.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jun2025 17:19:51.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 17:21:05.801] [IO-Worker-202/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-203
+[07Jun2025 17:21:40.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 17:22:59.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[07Jun2025 17:22:59.352] [IO-Worker-203/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-204
+[07Jun2025 17:23:57.614] [IO-Worker-202/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-205
+[07Jun2025 17:24:44.291] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 17:24:51.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 17:24:51.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 17:28:26.859] [IO-Worker-202/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-206
+[07Jun2025 17:28:40.540] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 17:29:51.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 17:29:51.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
