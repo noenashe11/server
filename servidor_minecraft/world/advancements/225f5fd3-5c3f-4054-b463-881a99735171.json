@@ -7929,6 +7929,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-06-07 15:03:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2025-06-07 13:57:13 +0000"
@@ -7944,6 +7950,12 @@
   "createdeco:recipes/decorations/zinc_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-06-07 14:55:45 +0000"
     },
     "done": true
   },
