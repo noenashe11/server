@@ -15376,3 +15376,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 14:05:28.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
 [07Jun2025 14:06:53.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
 [07Jun2025 14:07:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 14:09:21.303] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[07Jun2025 14:09:32.868] [Server thread/DEBUG] [mixin/]: Mixing MixinMountedStorageManager from railways-common.mixins.json into com.simibubi.create.content.contraptions.MountedStorageManager
+[07Jun2025 14:09:32.868] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$read$1(Lnet/minecraft/nbt/CompoundTag;)V to md535b0c$lambda$read$1$0 in railways-common.mixins.json:MixinMountedStorageManager
+[07Jun2025 14:09:32.869] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$entityTick$0(Lcom/simibubi/create/content/contraptions/AbstractContraptionEntity;Lnet/minecraft/core/BlockPos;Lcom/simibubi/create/content/contraptions/MountedFluidStorage;)V to md535b0c$lambda$entityTick$0$1 in railways-common.mixins.json:MixinMountedStorageManager
+[07Jun2025 14:09:32.870] [Server thread/DEBUG] [mixin/]: Mixing MountedStorageManagerMixin from railways.mixins.json into com.simibubi.create.content.contraptions.MountedStorageManager
+[07Jun2025 14:09:32.870] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bindTanks$0(Ljava/util/Map;Lnet/minecraft/core/BlockPos;Lcom/simibubi/create/content/contraptions/MountedFluidStorage;)V to md535b0c$lambda$bindTanks$0$2 in railways.mixins.json:MountedStorageManagerMixin
+[07Jun2025 14:09:32.886] [Server thread/DEBUG] [mixin/]: Mixing AccessorToolboxInventory from railways-common.mixins.json into com.simibubi.create.content.equipment.toolbox.ToolboxInventory
+[07Jun2025 14:09:32.889] [Server thread/DEBUG] [mixin/]: Mixing AccessorMountedFluidStorage from railways-common.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[07Jun2025 14:09:32.890] [Server thread/DEBUG] [mixin/]: Mixing MountedFluidStorageMixin from railways.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[07Jun2025 14:09:51.198] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[07Jun2025 14:09:51.199] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[07Jun2025 14:09:51.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 14:09:51.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 14:13:41.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[07Jun2025 14:14:23.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 14:14:51.197] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[07Jun2025 14:14:51.211] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[07Jun2025 14:14:51.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 14:14:51.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
