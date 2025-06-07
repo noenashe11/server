@@ -9449,6 +9449,12 @@
     },
     "done": true
   },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-06-07 16:26:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-06-07 15:32:56 +0000"
@@ -9566,6 +9572,18 @@
   "create:belt": {
     "criteria": {
       "0": "2025-06-07 16:19:13 +0000"
+    },
+    "done": true
+  },
+  "create:lava_wheel_00000": {
+    "criteria": {
+      "0": "2025-06-07 16:26:20 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2025-06-07 16:26:21 +0000"
     },
     "done": true
   },

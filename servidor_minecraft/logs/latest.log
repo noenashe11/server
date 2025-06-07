@@ -1417,3 +1417,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 16:23:00.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
 [07Jun2025 16:26:20.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has reached the goal [Magma Wheel]
 [07Jun2025 16:26:21.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has reached the goal [Tapping the Mantle]
+[07Jun2025 16:33:17.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 16:33:20.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 16:33:30.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 16:33:34.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]

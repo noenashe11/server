@@ -16217,3 +16217,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 16:26:20.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has reached the goal [Magma Wheel]
 [07Jun2025 16:26:21.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has reached the goal [Tapping the Mantle]
 [07Jun2025 16:27:39.849] [IO-Worker-143/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-145
+[07Jun2025 16:29:51.175] [IO-Worker-145/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-146
+[07Jun2025 16:29:51.175] [IO-Worker-142/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-147
+[07Jun2025 16:29:51.175] [IO-Worker-142/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-148
+[07Jun2025 16:29:51.175] [IO-Worker-143/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-149
+[07Jun2025 16:29:51.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 16:29:51.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 16:32:21.555] [IO-Worker-147/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
+[07Jun2025 16:33:17.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 16:33:20.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 16:33:30.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 16:33:34.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 16:34:51.185] [IO-Worker-150/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-151
+[07Jun2025 16:34:51.185] [IO-Worker-151/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-152
+[07Jun2025 16:34:51.186] [IO-Worker-150/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-153
+[07Jun2025 16:34:51.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 16:34:51.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
