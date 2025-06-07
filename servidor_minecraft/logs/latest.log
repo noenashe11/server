@@ -1304,3 +1304,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 15:01:57.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [07Jun2025 15:05:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has made the advancement [Bonk!]
 [07Jun2025 15:08:32.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has made the advancement [Complex Curiosities]
+[07Jun2025 15:08:47.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe has made the advancement [The Brass Age]
+[07Jun2025 15:09:46.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 15:10:09.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: noenashe lost connection: Disconnected
+[07Jun2025 15:10:09.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe left the game
+[07Jun2025 15:10:09.418] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client noenashe
+[07Jun2025 15:10:24.809] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player noenashe is 225f5fd3-5c3f-4054-b463-881a99735171
+[07Jun2025 15:10:32.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: noenashe[/127.133.41.20:57343] logged in with entity id 34768 at (247.45309283484417, 64.0, 90.04730677526994)
+[07Jun2025 15:10:32.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe joined the game
+[07Jun2025 15:10:32.371] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to noenashe
+[07Jun2025 15:10:32.566] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from noenashe
+[07Jun2025 15:10:32.576] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of noenashe (18)
+[07Jun2025 15:10:32.576] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to noenashe
+[07Jun2025 15:11:05.591] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 15:12:22.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: noenashe lost connection: Disconnected
+[07Jun2025 15:12:22.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe left the game
+[07Jun2025 15:12:22.663] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client noenashe
+[07Jun2025 15:12:31.630] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player noenashe is 225f5fd3-5c3f-4054-b463-881a99735171
+[07Jun2025 15:12:38.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: noenashe[/127.133.41.20:46727] logged in with entity id 35352 at (246.52860305111906, 64.0, 91.35540685023294)
+[07Jun2025 15:12:38.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noenashe joined the game
+[07Jun2025 15:12:38.915] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to noenashe
+[07Jun2025 15:12:39.069] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from noenashe
+[07Jun2025 15:12:39.119] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of noenashe (18)
+[07Jun2025 15:12:39.120] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to noenashe
+[07Jun2025 15:13:35.442] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[07Jun2025 15:14:08.541] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[07Jun2025 15:14:22.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[07Jun2025 15:16:20.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 15:16:54.141] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 15:18:04.744] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 15:18:20.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[07Jun2025 15:20:31.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 15:20:35.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
