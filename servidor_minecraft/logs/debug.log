@@ -16086,3 +16086,62 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 15:35:25.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
 [07Jun2025 15:36:53.353] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
 [07Jun2025 15:38:44.206] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[07Jun2025 15:39:51.192] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[07Jun2025 15:39:51.195] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[07Jun2025 15:39:51.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 15:39:51.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 15:41:53.144] [Server thread/DEBUG] [mixin/]: Mixing FluidNetworkMixin from railways.mixins.json into com.simibubi.create.content.fluids.FluidNetwork
+[07Jun2025 15:43:56.052] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[07Jun2025 15:44:51.200] [IO-Worker-115/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[07Jun2025 15:44:51.201] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[07Jun2025 15:44:51.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 15:44:51.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 15:48:05.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 15:48:10.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 15:48:24.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 15:48:32.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 15:49:15.201] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[07Jun2025 15:49:21.211] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@3241e0b3]Trying to start horde event on day 30 with nextDay 30 and time 10000
+[07Jun2025 15:49:21.214] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@b978d20
+[07Jun2025 15:49:21.216] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[07Jun2025 15:49:21.216] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[07Jun2025 15:49:21.217] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[07Jun2025 15:49:21.217] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[07Jun2025 15:49:21.269] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[07Jun2025 15:49:21.269] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[07Jun2025 15:49:21.270] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 30
+[07Jun2025 15:49:51.202] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[07Jun2025 15:49:51.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 15:49:51.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 15:50:11.268] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[07Jun2025 15:50:11.268] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[07Jun2025 15:50:11.268] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[07Jun2025 15:50:13.691] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[07Jun2025 15:50:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 15:51:01.269] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[07Jun2025 15:51:01.269] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[07Jun2025 15:51:01.269] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[07Jun2025 15:51:03.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 15:51:05.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 15:51:31.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 15:51:46.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 15:51:51.269] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[07Jun2025 15:51:51.270] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[07Jun2025 15:51:51.270] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[07Jun2025 15:52:41.265] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[07Jun2025 15:52:41.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[07Jun2025 15:52:41.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[07Jun2025 15:53:29.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35438, l='ServerLevel[world]', x=339.89, y=64.00, z=46.32] died, message: 'Villager hit the ground too hard whilst trying to escape Husk'
+[07Jun2025 15:53:31.265] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[07Jun2025 15:53:31.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[07Jun2025 15:53:31.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[07Jun2025 15:54:35.549] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[07Jun2025 15:54:46.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 15:54:51.204] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[07Jun2025 15:54:51.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 15:54:51.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 15:55:14.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 15:55:34.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 15:55:37.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 15:56:05.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Successfully filled 739 block(s)]
+[07Jun2025 15:57:05.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]

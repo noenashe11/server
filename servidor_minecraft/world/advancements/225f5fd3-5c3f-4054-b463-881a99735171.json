@@ -9406,6 +9406,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-06-07 15:48:08 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_sheet_metal": {
     "criteria": {
       "has_item": "2025-06-07 15:25:10 +0000"
@@ -9430,6 +9436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-06-07 15:48:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-06-07 15:32:56 +0000"
@@ -9451,6 +9463,12 @@
   "railways:recipes/misc/crafting/smokestack_diesel": {
     "criteria": {
       "has_item": "2025-06-07 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-06-07 15:53:26 +0000"
     },
     "done": true
   },
