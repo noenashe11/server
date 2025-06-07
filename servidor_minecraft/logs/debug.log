@@ -16674,3 +16674,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 18:19:51.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jun2025 18:19:51.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jun2025 18:21:07.009] [IO-Worker-228/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-230
+[07Jun2025 18:22:41.955] [IO-Worker-225/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-231
+[07Jun2025 18:24:15.380] [IO-Worker-231/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-232
+[07Jun2025 18:24:51.196] [IO-Worker-228/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-233
+[07Jun2025 18:24:51.198] [IO-Worker-225/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-234
+[07Jun2025 18:24:51.199] [IO-Worker-228/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-235
+[07Jun2025 18:24:51.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 18:24:51.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 18:25:01.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Jun2025 18:26:44.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[07Jun2025 18:26:50.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[07Jun2025 18:27:03.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 18:28:36.073] [IO-Worker-225/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-236
+[07Jun2025 18:29:51.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 18:29:51.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 18:33:13.646] [IO-Worker-225/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-237
+[07Jun2025 18:33:13.649] [IO-Worker-236/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-238
+[07Jun2025 18:34:51.192] [IO-Worker-237/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-239
+[07Jun2025 18:34:51.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 18:34:51.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 18:39:51.188] [IO-Worker-236/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-240
+[07Jun2025 18:39:51.190] [IO-Worker-236/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-241
+[07Jun2025 18:39:51.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 18:39:51.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 18:40:40.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[07Jun2025 18:40:44.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[07Jun2025 18:40:45.427] [IO-Worker-240/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-242
