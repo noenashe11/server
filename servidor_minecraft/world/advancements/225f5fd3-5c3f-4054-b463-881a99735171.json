@@ -7875,6 +7875,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/zinc_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-06-07 14:23:41 +0000"
@@ -7887,9 +7893,21 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_beam": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2025-06-07 13:57:04 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -7920,6 +7938,12 @@
   "createdeco:recipes/decorations/decal_up": {
     "criteria": {
       "has_item": "2025-06-07 14:05:27 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -7965,6 +7989,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-06-07 14:39:39 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/gray_shipping_container": {
     "criteria": {
       "has_item": "2025-06-07 14:05:27 +0000"
@@ -8007,6 +8037,18 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_half_panel": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-07 14:30:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-06-07 13:57:04 +0000"
@@ -8025,6 +8067,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_block": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/lime_shipping_container": {
     "criteria": {
       "has_item": "2025-06-07 14:05:27 +0000"
@@ -8034,6 +8082,12 @@
   "railways:recipes/misc/crafting/track_switch_andesite": {
     "criteria": {
       "has_item": "2025-06-07 13:57:13 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_stairs": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8052,6 +8106,12 @@
   "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-06-07 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8097,6 +8157,18 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_slice": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-06-07 14:27:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-06-07 13:57:13 +0000"
@@ -8115,9 +8187,21 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_slice": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/andesite_support": {
     "criteria": {
       "has_item": "2025-06-07 13:57:04 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_wall": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8154,6 +8238,12 @@
   "create:water_wheel": {
     "criteria": {
       "0": "2025-06-07 13:49:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_door": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8213,9 +8303,16 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2025-06-07 14:16:27 +0000"
+      "0": "2025-06-07 14:16:27 +0000",
+      "1": "2025-06-07 14:33:10 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_iron_trapdoor": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
   },
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
@@ -8253,15 +8350,45 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/zinc_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:hammer_time": {
+    "criteria": {
+      "hammer_time": "2025-06-07 14:35:41 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_fence_gate": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2025-06-07 13:57:13 +0000"
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_slab": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_fire": {
     "criteria": {
       "has_item": "2025-06-07 14:05:27 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_trapdoor": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8283,6 +8410,36 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_bars": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/blue_shipping_container": {
     "criteria": {
       "has_item": "2025-06-07 14:05:27 +0000"
@@ -8298,6 +8455,24 @@
   "createdeco:recipes/decorations/andesite_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-07 13:57:04 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_byte": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_shaft": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8319,6 +8494,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/zinc_trapdoor": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/zinc_window": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/crafting/copycat_cogwheel": {
     "criteria": {
       "has_item": "2025-06-07 13:50:38 +0000"
@@ -8337,6 +8524,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_stairs": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-06-07 14:03:38 +0000"
@@ -8346,6 +8539,12 @@
   "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2025-06-07 13:57:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8409,15 +8608,45 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_iron_lamp": {
     "criteria": {
       "has_item": "2025-06-07 14:05:27 +0000"
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_slope": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_brown_wool": "2025-06-07 14:03:38 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_layer": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slope": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8433,9 +8662,27 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_slope_layer": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_support": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_sheet_metal": {
     "criteria": {
       "has_item": "2025-06-07 14:05:27 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_wooden_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8448,6 +8695,12 @@
   "create:recipes/misc/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2025-06-07 13:57:13 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_light_weighted_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8559,6 +8812,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_stone_button": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
     "criteria": {
       "has_item": "2025-06-07 13:57:04 +0000"
@@ -8571,6 +8830,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_wooden_button": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-06-07 13:57:04 +0000"
@@ -8580,6 +8845,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-06-07 14:03:38 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_ladder_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8619,9 +8890,27 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_stone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/pink_shipping_container": {
     "criteria": {
       "has_item": "2025-06-07 14:05:27 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_ghost_block": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8661,6 +8950,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2025-06-07 13:57:04 +0000"
@@ -8676,6 +8971,12 @@
   "immersive_weathering:recipes/oak_bark": {
     "criteria": {
       "has_copper_block": "2025-06-07 13:57:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_door": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8715,6 +9016,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_ladder": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2025-06-07 13:57:04 +0000"
@@ -8727,9 +9034,21 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_board": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
     "criteria": {
       "has_item": "2025-06-07 13:50:38 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_fence": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
@@ -8742,6 +9061,12 @@
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-06-07 13:57:04 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_half_layer": {
+    "criteria": {
+      "has_item": "2025-06-07 14:30:49 +0000"
     },
     "done": true
   },
