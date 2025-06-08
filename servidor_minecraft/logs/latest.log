@@ -1281,3 +1281,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Jun2025 13:29:38.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set the time to 1000]
 [08Jun2025 13:35:55.057] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [08Jun2025 13:39:36.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set the time to 1000]
+[08Jun2025 13:44:09.957] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[08Jun2025 13:49:46.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set the time to 1000]
+[08Jun2025 13:51:31.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Spectator Mode]
+[08Jun2025 13:51:43.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[08Jun2025 13:56:24.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[08Jun2025 13:56:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[08Jun2025 13:58:15.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Survival Mode]
+[08Jun2025 13:58:35.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set own game mode to Creative Mode]
+[08Jun2025 13:59:52.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set the time to 1000]
