@@ -15378,3 +15378,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Jun2025 13:27:54.624] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
 [08Jun2025 13:28:59.108] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [08Jun2025 13:29:06.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Successfully filled 50 block(s)]
+[08Jun2025 13:29:38.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set the time to 1000]
+[08Jun2025 13:30:45.623] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[08Jun2025 13:31:33.479] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[08Jun2025 13:31:33.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 13:31:33.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 13:33:09.198] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[08Jun2025 13:34:11.067] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[08Jun2025 13:35:55.057] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[08Jun2025 13:36:33.457] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[08Jun2025 13:36:33.463] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[08Jun2025 13:36:33.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 13:36:33.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 13:36:57.847] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[08Jun2025 13:39:36.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set the time to 1000]
+[08Jun2025 13:39:45.335] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45

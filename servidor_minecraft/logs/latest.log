@@ -1278,3 +1278,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Jun2025 13:19:31.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set the time to 1000]
 [08Jun2025 13:28:59.108] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [08Jun2025 13:29:06.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Successfully filled 50 block(s)]
+[08Jun2025 13:29:38.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set the time to 1000]
+[08Jun2025 13:35:55.057] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[08Jun2025 13:39:36.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [noenashe: Set the time to 1000]
